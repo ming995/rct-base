@@ -1,0 +1,14 @@
+# osx
+.DS_Store
+
+# node
+node_modules
+
+# vscode
+.vscode
+
+# jetbrains
+.idea
+
+# js-doc
+docs
