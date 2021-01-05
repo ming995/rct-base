@@ -1,0 +1,23 @@
+{
+  "name": "rct-base",
+  "version": "0.1.0",
+  "description": "rct 基础方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ming995/rct-base.git"
+  },
+  "author": "ming995",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ming995/rct-base/issues"
+  },
+  "homepage": "https://github.com/ming995/rct-base#readme",
+  "dependencies": {
+    "source-map-loader": "^2.0.0",
+    "ts-loader": "^8.0.13"
+  }
+}
